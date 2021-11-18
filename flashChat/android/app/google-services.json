@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143186388748",
+    "project_id": "flashchat-b85c2",
+    "storage_bucket": "flashchat-b85c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143186388748:android:f56a6321f69126faaa8b29",
+        "android_client_info": {
+          "package_name": "com.dulat.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143186388748-24jb18suglfdjdm4grb530mrjpkrf6po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9GFPUPCfqjvwG0j7oqH7qxEbN0ibsVKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143186388748-24jb18suglfdjdm4grb530mrjpkrf6po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
